@@ -1,3 +1,5 @@
+Hybrid_image_rationing:
+
 This hybrid_image_rationing model performs hybrid image preprocessing for change detection by combining image differencing, logarithmic image ratioing, and edge enhancement. 
 
 It begins by converting two input image scales (scale_1 and scale_2) to float32 for numerical stability.
